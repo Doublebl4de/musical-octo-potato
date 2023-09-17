@@ -1,0 +1,16 @@
+def win():
+    print("")
+    print(" Y   Y  OO  U  U   W     W     W III NN  N")
+    print(" Y   Y O  O U  U   W     W     W  I  N N N")
+    print("  Y Y  O  O U  U    W   W W   W   I  N N N")
+    print("   Y   O  O U  U     W W   W W    I  N  NN")
+    print("   Y    OO   UU       W     W    III N   N")
+    print("")
+def die():
+    print("")
+    print(" Y   Y  OO  U  U   DD  III EEE DD")
+    print(" Y   Y O  O U  U   D D  I  E   D D")
+    print("  Y Y  O  O U  U   D D  I  EEE D D")
+    print("   Y   O  O U  U   D D  I  E   D D")
+    print("   Y    OO   UU    DD  III EEE DD")
+    print("")
